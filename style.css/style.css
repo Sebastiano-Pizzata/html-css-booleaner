@@ -45,4 +45,10 @@ tfoot{
       text-align: left;
       background-color:#b1e5f2 ;
 }
-      
+.text-white{
+           color: lightgray;
+}
+
+#hero{ color: white;
+       background-image: url(../img/monitor.jpg);
+}
